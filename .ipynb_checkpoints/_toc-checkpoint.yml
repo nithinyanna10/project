@@ -1,0 +1,5 @@
+format: jb-book
+root: content/503 PROJECT 50593872  # Choose one as the root page
+chapters:
+  - file: content/503 PROJECT 50593872
+  - file: content/resume
